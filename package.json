@@ -1,0 +1,22 @@
+{
+  "name": "firsttest",
+  "version": "1.0.0",
+  "description": "gggg",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riko714/firsttest.git"
+  },
+  "author": "raf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riko714/firsttest/issues"
+  },
+  "homepage": "https://github.com/riko714/firsttest#readme"
+}
